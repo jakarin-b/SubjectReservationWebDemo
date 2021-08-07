@@ -18,6 +18,7 @@
         </v-card-title>
         <v-card-text>
           อาจารย์ซึ้งใจเป็นอย่างมากที่ทุกคนตั้งใจกันอยากเรียนแต่วิชาเต็มแล้ว TwT
+          สุดยอดด!!
         </v-card-text>
         <v-divider></v-divider>
         <v-card-actions>
