@@ -2,7 +2,7 @@
   <div class="home">
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
-      SIT Subject Reservation Web
+      SIT Subject Reservation Web on netlify
     </p>
     <br />
     <v-row justify="center" align="top" no-gutters style="height: 150px">
@@ -18,6 +18,7 @@
         </v-card-title>
         <v-card-text>
           อาจารย์ซึ้งใจเป็นอย่างมากที่ทุกคนตั้งใจกันอยากเรียนแต่วิชาเต็มแล้ว TwT
+          สุดยอดด!!
         </v-card-text>
         <v-divider></v-divider>
         <v-card-actions>
